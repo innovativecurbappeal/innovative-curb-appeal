@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Add your final sitemap URL after purchasing a domain.
